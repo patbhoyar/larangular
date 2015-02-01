@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+a{ text-decoration: none;}
+
+#mainContainer{
+    width: 1200px;
+    height: auto;
+    min-height: 800px;
+    margin: auto;
+    background: #eee;
+    border-left: 1px solid #4797d5;
+    border-right: 1px solid #4797d5;
+}
+
+#title{
+    text-align: center;
+}
+
+table, table th, table td{
+    border: 1px solid #c6dbf5;
+}
+
+table th{
+    background: #bbb;
+}
+
+table td, table th{
+    padding: 10px;
+    text-align: center;
+}
